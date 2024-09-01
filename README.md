@@ -1,7 +1,3 @@
-Here’s a template for a `README.md` file suitable for both the frontend and backend of your project. This template includes sections for project overview, setup, usage, and contribution guidelines.
-
----
-
 # Ethereum Tracker
 
 ## Overview
@@ -151,6 +147,3 @@ If you'd like to contribute to the Ethereum Tracker project, please follow these
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to adjust the content based on the specific details of your project and its configuration.
